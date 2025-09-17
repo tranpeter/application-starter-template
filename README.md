@@ -1,11 +1,7 @@
-# MediDent Inventory Manager
+# Starter Application Template
 
 ## Overview
-MediDent Inventory Manager is a web and mobile platform designed to help dental and medical practices manage their inventory efficiently. The system offers features like invoice scanning, QR code tracking, low-stock alerts, and expiry tracking.
-
-## Tiers
-- **Basic Tier ($49-$79/mo)**: Manual inventory edits, invoice scanning, low-stock alerts, expiry alerts, CSV import/export
-- **Pro Tier ($149-$179/mo)**: All Basic features plus hybrid QR system, lot & expiry tracking, batch scanning, detailed audit logs
+This starter application template is a web and mobile platform designed to build a new application. 
 
 ## Technical Stack
 - **Frontend**: React v18.2.0 (Web), React Native (Mobile - planned)

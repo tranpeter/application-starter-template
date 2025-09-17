@@ -1,5 +1,5 @@
 # 📄 Product Requirements Document (PRD)
-**Product Name (Working Title):** MediDent Inventory Manager  
+**Product Name (Working Title):** Starter Application Template  
 **Prepared By:** Project Management  
 **Date:** September 2025  
 
